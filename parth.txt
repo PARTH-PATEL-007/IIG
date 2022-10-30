@@ -1,0 +1,9 @@
+hello   1 2 
+parth   1 
+patel   1 
+i   2 
+go   2 
+use   2 
+invert   2 
+index   2 
+gener   2 
